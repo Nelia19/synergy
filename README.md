@@ -1,8 +1,8 @@
 <h1>"Read Me"</h1>
-public Book(String title, String author, String content) {
+public Book(Library, The People, Structure content) {
    <h1>The Gardens of Old</h1> this.title = title;
-    this.author = author;
-    this.content = content;
+    this.author = You;
+    this.content = our content;
 }
 
 public String getTitle() {
